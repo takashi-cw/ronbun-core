@@ -22,6 +22,5 @@
 ## PR
 
 下記にてオンラインで愚痴聞き、メンタルケアサービスを提供しています。
-
-『しがたかしホッとLINE』
-https://www.shigatakashi.com
+- 『しがたかしホッとLINE』
+- https://www.shigatakashi.com
